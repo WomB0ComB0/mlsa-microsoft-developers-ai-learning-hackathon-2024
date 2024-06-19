@@ -1,10 +1,10 @@
 # Project-level configuration.
 cmake_minimum_required(VERSION 3.14)
-project(mlsa-microsoft-developers-ai-learning-hackathon-2024 LANGUAGES CXX)
+project(mlsa_microsoft_developers_ai_learning_hackathon_2024 LANGUAGES CXX)
 
 # The name of the executable created for the application. Change this to change
 # the on-disk name of your application.
-set(BINARY_NAME "mlsa-microsoft-developers-ai-learning-hackathon-2024")
+set(BINARY_NAME "mlsa_microsoft_developers_ai_learning_hackathon_2024")
 
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
 # versions of CMake.

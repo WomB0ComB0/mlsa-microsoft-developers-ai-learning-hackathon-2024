@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "mlsa-microsoft-developers-ai-learning-hackathon-2024" "\0"
+            VALUE "FileDescription", "mlsa_microsoft_developers_ai_learning_hackathon_2024" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "mlsa-microsoft-developers-ai-learning-hackathon-2024" "\0"
+            VALUE "InternalName", "mlsa_microsoft_developers_ai_learning_hackathon_2024" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "mlsa-microsoft-developers-ai-learning-hackathon-2024.exe" "\0"
-            VALUE "ProductName", "mlsa-microsoft-developers-ai-learning-hackathon-2024" "\0"
+            VALUE "OriginalFilename", "mlsa_microsoft_developers_ai_learning_hackathon_2024.exe" "\0"
+            VALUE "ProductName", "mlsa_microsoft_developers_ai_learning_hackathon_2024" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

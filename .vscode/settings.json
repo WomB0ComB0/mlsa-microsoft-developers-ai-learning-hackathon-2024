@@ -1,3 +1,4 @@
 {
-  "java.configuration.updateBuildConfiguration": "interactive"
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "cmake.sourceDirectory": "C:/Users/airwo/documents/github/mlsa_microsoft_developers_ai_learning_hackathon_2024/windows/flutter"
 }

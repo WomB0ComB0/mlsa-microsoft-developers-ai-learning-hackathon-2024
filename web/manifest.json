@@ -1,6 +1,6 @@
 {
-    "name": "mlsa-microsoft-developers-ai-learning-hackathon-2024",
-    "short_name": "mlsa-microsoft-developers-ai-learning-hackathon-2024",
+    "name": "mlsa_microsoft_developers_ai_learning_hackathon_2024",
+    "short_name": "mlsa_microsoft_developers_ai_learning_hackathon_2024",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

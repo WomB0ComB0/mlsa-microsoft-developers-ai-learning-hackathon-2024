@@ -1,4 +1,4 @@
-package com.example.mlsa-microsoft-developers-ai-learning-hackathon-2024
+package com.example.mlsa_microsoft_developers_ai_learning_hackathon_2024
 
 import io.flutter.embedding.android.FlutterActivity
 

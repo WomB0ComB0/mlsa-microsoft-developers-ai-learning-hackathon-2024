@@ -8,7 +8,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:mlsa-microsoft-developers-ai-learning-hackathon-2024/main.dart';
+import 'package:mlsa_microsoft_developers_ai_learning_hackathon_2024/main.dart';
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {

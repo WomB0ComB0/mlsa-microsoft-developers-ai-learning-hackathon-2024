@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="mlsa-microsoft-developers-ai-learning-hackathon-2024"
+        android:label="mlsa_microsoft_developers_ai_learning_hackathon_2024"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

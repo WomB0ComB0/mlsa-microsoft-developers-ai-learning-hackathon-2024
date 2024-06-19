@@ -1,4 +1,4 @@
-# mlsa-microsoft-developers-ai-learning-hackathon-2024
+# mlsa_microsoft_developers_ai_learning_hackathon_2024
 
 A new Flutter project.
 
